@@ -15,4 +15,3 @@
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=WDev-stack&show_icons=true&theme=radical)
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=WDev-stack&layout=compact&theme=radical)
-
